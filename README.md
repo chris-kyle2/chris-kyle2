@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Adarsh Pandey  
 
-🎓 Education  
+## 🎓 Education  
 - M.S in Mathematics and Computing (2024) from Indian Institute of Technology, Dhanbad  
 - Advanced Certification in Cloud Computing (2024) from Indian Institute of Technology, Roorkee  
 
@@ -8,35 +8,16 @@
 
 ## 🛠️ Skills  
 
-### Programming Languages  
-- Python, Go  
-
-### Operating Systems  
-- Linux  
-
-### Cloud Platforms  
-- AWS Services: EC2, ECR, ECS, S3, IAM, VPC, Lambda, RDS, CodeDeploy, CloudFront  
-
-### Containerization & Orchestration  
-- Docker, Kubernetes  
-
-### CI/CD Tools  
-- Jenkins, ArgoCD, GitHub Actions, AWS CodePipeline  
-
-### Infrastructure as Code (IaC)  
-- Terraform, AWS CloudFormation  
-
-### Configuration Management  
-- Ansible  
-
-### Monitoring & Logging  
-- ELK Stack (Elasticsearch, Logstash, Kibana), Prometheus, Grafana  
-
-### Networking  
-- Load Balancers, DNS Configuration  
-
-### Version Control  
-- Git  
+**Programming Languages** : Python, Go, C++  
+**Operating Systems** : Linux  
+**Cloud Platforms** : AWS Services: EC2, ECR, ECS, S3, IAM, VPC, Lambda, RDS, CodeDeploy, CloudFront  
+**Containerization & Orchestration** : Docker, Kubernetes  
+**CI/CD Tools** : Jenkins, ArgoCD, GitHub Actions, AWS CodePipeline  
+**Infrastructure as Code (IaC)** : Terraform, AWS CloudFormation  
+**Configuration Management** : Ansible  
+**Monitoring & Logging** : ELK Stack (Elasticsearch, Logstash, Kibana), Prometheus, Grafana  
+**Networking** : Load Balancers, DNS Configuration  
+**Version Control** : Git  
 
 ---
 
